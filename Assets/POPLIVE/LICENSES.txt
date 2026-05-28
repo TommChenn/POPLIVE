@@ -1,0 +1,45 @@
+The following files are subject to the license specified in this content.
+以下のファイルは本内容で指定のライセンスが適用されます。
+- FutureWave.json
+- Dome.fbx
+- Stage.fbx
+- Note2.png
+- Note3.png
+- Note4.png
+- Note5.png
+- Note6.png
+- Note7.png
+- Note8.png
+- TapPoint.png
+- Dome.jpg
+© 谷口 博一 Life is Tech, Inc. 2020
+
+- FutureWave.wav
+© 澤野 雄太 Life is Tech, Inc. 2020
+
+- F00_003_01_Bottoms_01.png
+- F00_003_01_Tops_01.png
+- F00_007_01_Shoes_01.png
+- POPIVE_Character.prefab
+© 高橋 拓也 Life is Tech, Inc. 2020
+
+- Bar1.png
+- Bar2.png
+- Bar3.png
+- Bar4.png
+- Bar5.png
+- Bar6.png
+- Bar7.png
+- Bar8.png
+- Note1.png
+- Stage.png
+© 水田 将大 Life is Tech, Inc. 2020
+
+Required（必須）
+ - License and copyright notice（著作権の表示）
+ - Disclose Source（ソースの明示）
+Permitted（許可）
+ - Private Use（個人利用）
+Forbidden（禁止）
+ - Use Trademark（トレードマークの使用）
+ - Distribution（配布の禁止）
